@@ -17,3 +17,8 @@ a bounding box around it in real time using HSV color segmentation.
 - Python
 - OpenCV
 - NumPy
+
+## Installation
+Clone the repository:
+
+    git clone https://github.com/Hp2806/Object-Tracker.git
